@@ -1,0 +1,88 @@
+{
+  "org": {
+    "name": "ICRI-HEE",
+    "fullName": "International Council for Research & Innovation in Healthcare, Energy & Environment",
+    "tagline": "Leading multidisciplinary research and innovation in healthcare, energy and environment",
+    "subtitle": "Harmonising human intelligence, computational science and advanced artificial intelligence",
+    "founded": 2024,
+    "about": [
+      "ICRI-HEE is a multidisciplinary research and innovation organisation dedicated to advancing scientific knowledge, computational intelligence and technological innovation across healthcare, energy and environmental sciences.",
+      "We bring together scientists, researchers, engineers, academics and emerging innovators to address complex scientific and societal challenges through interdisciplinary research, mathematical modelling, artificial intelligence, computational science and evidence-based technological development.",
+      "Our research philosophy integrates human scientific expertise with advanced computational methods. By combining biological understanding, mathematical reasoning, intelligent algorithms and engineering innovation, we develop reliable, sustainable and scientifically grounded solutions.",
+      "Aligned with the principles of Industry 5.0, ICRI-HEE promotes human-centric innovation, sustainability and meaningful collaboration between scientific disciplines."
+    ]
+  },
+  "nav": [
+    {"label": "About", "href": "#about"},
+    {"label": "Founder", "href": "#founder"},
+    {"label": "Philosophy", "href": "#philosophy"},
+    {"label": "Research", "href": "#research"},
+    {"label": "Vision", "href": "#vision"},
+    {"label": "Team", "href": "#team"}
+  ],
+  "founder": {
+    "name": "Dr. Didar Murad, PhD",
+    "roles": ["Founder & President, ICRI-HEE", "Principal Scientist & Founding Director, Computational Healthcare Intelligence Lab"],
+    "photo": "assets/images/team/didar-murad.svg",
+    "bio": [
+      "Founded in 2024 under the vision of Dr. Didar Murad, ICRI-HEE emerged from the belief that the future of scientific discovery lies in multidisciplinary collaboration, computational intelligence and the integration of human expertise with emerging technologies.",
+      "With an academic background in Computational Science and Engineering and Mathematics, Dr. Murad envisioned an international research ecosystem connecting computational methodologies with real-world challenges in healthcare, energy and environmental sustainability.",
+      "His research vision emphasises mathematical modelling, artificial intelligence, computational systems research, biomedical intelligence and intelligent technological solutions.",
+      "Under his leadership, ICRI-HEE is developing specialised research laboratories, scientific programmes, collaborative initiatives, research training and early-career researcher development."
+    ]
+  },
+  "philosophy": {
+    "title": "Harmonising human intelligence with computational innovation",
+    "text": [
+      "True scientific innovation is not simply about increasing computational power. It requires scientific understanding, critical thinking, methodological rigour and responsible technological implementation.",
+      "We believe artificial intelligence should complement rather than replace human scientific expertise. Our approach integrates biological knowledge, mathematical foundations, computational methodologies and intelligent technologies to investigate complex systems and develop innovative solutions."
+    ]
+  },
+  "divisions": [
+    {
+      "id": "healthcare", "name": "Healthcare Research", "color": "#e0525b",
+      "icon": "assets/images/icons/healthcare.svg",
+      "summary": "Computational healthcare intelligence, biomedical systems, computational oncology, systems biology, precision medicine, AI-driven diagnostics and mathematical modelling of physiological and pathological processes.",
+      "lab": {"short": "CHI Lab", "name": "Computational Healthcare Intelligence Lab (CHI Lab)", "url": "https://icriste.com/computational-healthcare-intelligence-lab-chi-lab/"}
+    },
+    {
+      "id": "energy", "name": "Energy Research", "color": "#e8a317",
+      "icon": "assets/images/icons/energy.svg",
+      "summary": "Intelligent energy management systems, renewable energy forecasting, smart grids, microgrids, battery storage, IoT-based monitoring and AI-driven optimisation for sustainable energy infrastructure.",
+      "lab": {"short": "IESST Lab", "name": "IESST Lab", "url": "https://partnerships2024.github.io/IESST-Lab.github.io/"}
+    },
+    {
+      "id": "environment", "name": "Environmental Research", "color": "#2f9e6e",
+      "icon": "assets/images/icons/environment.svg",
+      "summary": "Environmental intelligence, climate analytics, geospatial modelling, autonomous monitoring, computational environmental systems and AI-supported sustainability research.",
+      "lab": {"short": "EIAS Lab", "name": "EIAS Lab", "url": "https://partnerships2024.github.io/EIAS-Lab.github.io/"}
+    }
+  ],
+  "crossCutting": {
+    "name": "Computing, AI & Data Science",
+    "icon": "assets/images/icons/computing.svg",
+    "summary": "Cross-disciplinary computational foundations through artificial intelligence, machine learning, scientific computing, mathematical modelling, data science and intelligent systems across all research domains."
+  },
+  "vision": "To advance an internationally connected research and innovation ecosystem that integrates human intelligence, computational science and emerging technologies to address critical challenges in healthcare, energy and environmental sustainability.",
+  "mission": "To promote multidisciplinary scientific research, computational innovation and global collaboration by integrating mathematical modelling, artificial intelligence, applied sciences and technological development to generate meaningful scientific and societal impact.",
+  "objectives": [
+    {"title": "Advance scientific research", "text": "Promote high-quality, evidence-based research across healthcare, energy and environmental sciences."},
+    {"title": "Promote computational innovation", "text": "Apply AI, mathematical modelling and intelligent technologies to complex scientific challenges."},
+    {"title": "Strengthen global collaboration", "text": "Establish research partnerships connecting scientists, universities, institutions and industry."},
+    {"title": "Develop future researchers", "text": "Support early-career researchers through mentorship, training and collaborative scientific opportunities."},
+    {"title": "Encourage responsible innovation", "text": "Advance human-centric, sustainable and scientifically responsible technological development."}
+  ],
+  "team": [
+    {"group": "Regional Partnership & Collaboration", "members": [
+      {"name": "Engr. Shayan Ali", "role": "Regional Partnership Associate", "photo": "assets/images/team/shayan-ali.svg"},
+      {"name": "Engr. Fazal Hussain", "role": "Regional Partnership Associate", "photo": "assets/images/team/fazal-hussain.svg"}
+    ]},
+    {"group": "Early Career Researchers Network Affairs", "members": [
+      {"name": "Engr. Dr. Omar Zeb", "role": "R&D: Artificial Intelligence, Machine Learning & Control (Energy Domain)", "photo": "assets/images/team/omar-zeb.svg"},
+      {"name": "Mr. Atif Rehman", "role": "R&D: Artificial Intelligence, Machine Learning & Control (Biomedical Domain)", "photo": "assets/images/team/atif-rehman.svg"}
+    ]},
+    {"group": "Technology & Strategic Operations Leadership", "members": [
+      {"name": "Muhammad Ali", "role": "Head of Technology & Strategic Operations", "photo": "assets/images/team/muhammad-ali.svg", "bio": "Responsible for supporting the organisation's technology infrastructure, digital operations and strategic technology implementation."}
+    ]}
+  ]
+}
