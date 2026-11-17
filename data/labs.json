@@ -1,0 +1,55 @@
+{
+  "organisation": "ICRI-HEE",
+  "programme": "Future Scientific Leaders",
+  "description": "A research-development network connecting emerging scientists with mentorship, interdisciplinary projects, training and international collaboration across healthcare, energy and environment.",
+  "labs": [
+    {
+      "id": "chi",
+      "name": "Computational Healthcare Intelligence Lab",
+      "short_name": "CHI Lab",
+      "pillar": "Healthcare & Biomedical Research",
+      "tagline": "Advancing Healthcare Through Artificial Intelligence",
+      "url": "https://icriste.com/computational-healthcare-intelligence-lab-chi-lab/",
+      "focus": [
+        "Computational healthcare intelligence",
+        "Systems biology and computational oncology",
+        "Biomedical AI and machine learning",
+        "Federated and privacy-preserving learning",
+        "Intelligent biomedical control",
+        "Agentic and multi-agent virtual laboratories"
+      ]
+    },
+    {
+      "id": "iesst",
+      "name": "Intelligent Energy Systems & Sustainable Technologies Lab",
+      "short_name": "IESST Lab",
+      "pillar": "Energy & Smart Technologies",
+      "tagline": "Intelligent systems for resilient and sustainable energy",
+      "url": "https://partnerships2024.github.io/IESST-Lab.github.io/",
+      "focus": [
+        "Renewable-energy forecasting",
+        "Smart grids and microgrids",
+        "IoT sensors and smart meters",
+        "Edge AI and cloud AI",
+        "Energy management and optimisation",
+        "Battery energy storage systems"
+      ]
+    },
+    {
+      "id": "eias",
+      "name": "Environmental Intelligence & Autonomous Systems Lab",
+      "short_name": "EIAS Lab",
+      "pillar": "Environment & Sustainability",
+      "tagline": "Intelligent environmental monitoring and autonomous systems",
+      "url": "https://partnerships2024.github.io/EIAS-Lab.github.io/",
+      "focus": [
+        "Environmental artificial intelligence",
+        "Autonomous monitoring systems",
+        "Geospatial intelligence",
+        "Climate and environmental analytics",
+        "Computational sustainability",
+        "Data-driven environmental decision support"
+      ]
+    }
+  ]
+}

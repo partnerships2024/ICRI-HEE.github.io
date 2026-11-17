@@ -1,1 +1,1 @@
-
+JSON data files are the central editable content source. Validate JSON syntax after editing. Do not store private information, passwords, unpublished sensitive data or applicant records in this public repository.

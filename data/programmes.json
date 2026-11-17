@@ -1,0 +1,36 @@
+{
+  "pathways": [
+    {
+      "code": "ECR-1",
+      "level": "Bachelor's / Undergraduate",
+      "purpose": "Build foundational research literacy, scientific computing, critical reading, data handling and supervised project experience.",
+      "badge": "#2E7D32"
+    },
+    {
+      "code": "ECR-2",
+      "level": "Master's / MPhil",
+      "purpose": "Develop research independence through literature synthesis, method implementation, experimental design, analysis and reproducible project delivery.",
+      "badge": "#F57C00"
+    },
+    {
+      "code": "ECR-3",
+      "level": "PhD / Doctoral",
+      "purpose": "Advance original research, methodological depth, scientific leadership, scholarly communication and mentoring of junior researchers.",
+      "badge": "#C62828"
+    }
+  ],
+  "activities": [
+    "Research methods and reproducibility training",
+    "Scientific programming and computational workflows",
+    "Mentor-guided research projects",
+    "Interdisciplinary seminars and journal clubs",
+    "Research communication and publication development",
+    "International collaboration and student chapters"
+  ],
+  "domains": [
+    "Healthcare & Biomedical Research",
+    "Energy & Smart Technologies",
+    "Environment & Sustainability",
+    "Computing & Artificial Intelligence (cross-cutting capability)"
+  ]
+}
