@@ -1,0 +1,313 @@
+{
+ "title": "Global Scientific Community",
+ "intro": "Researchers, engineers and clinicians across computational science, biomedical intelligence and energy systems, working together under ICRI-HEE.",
+ "tiers": [
+  {
+   "id": "principal",
+   "label": "Principal Scientists",
+   "color": "#e8a317"
+  },
+  {
+   "id": "senior",
+   "label": "Senior Research Scientists",
+   "color": "#5fd0a0"
+  },
+  {
+   "id": "junior",
+   "label": "Junior Scientists",
+   "color": "#7aa7ff"
+  }
+ ],
+ "groups": [
+  {
+   "id": "life",
+   "label": "Biomedical & life sciences"
+  },
+  {
+   "id": "control",
+   "label": "Control & energy systems"
+  },
+  {
+   "id": "computing",
+   "label": "Computing & AI"
+  }
+ ],
+ "members": [
+  {
+   "id": "didar-murad",
+   "name": "Dr. Didar Murad",
+   "tier": "principal",
+   "rank": "R3-B",
+   "headline": "Principal Scientist & Founding Director, CHI Lab. PhD in Computational Science & Engineering. Visiting Research Fellow, University of South Wales.",
+   "groups": [
+    "life",
+    "computing"
+   ],
+   "profile": "Works at the intersection of systems biology, intelligent biomedical control and AI-driven computational healthcare research, leading interdisciplinary initiatives that bridge computational science, machine learning and biomedical innovation.",
+   "expertise": [
+    "Systems biology and immune signaling network modeling",
+    "Intelligent biomedical control systems",
+    "AI and machine learning for healthcare",
+    "Computational modeling of complex biological systems",
+    "Transcriptomics and pathway analysis"
+   ],
+   "contributions": [
+    "Published research in Frontiers in Immunology, PeerJ, IEEE and Springer Nature, spanning systems biology, computational immunology, transcriptomics and AI-based biomedical control.",
+    "Developed computational models of SARS-CoV-2 complement and coagulation signaling, advancing understanding of immune dysregulation and therapeutic target identification.",
+    "Led the design of AI-enhanced intelligent biomedical control frameworks that integrate artificial neural networks with nonlinear control strategies.",
+    "Leads the Privacy-Preserving AI-Driven Virtual Lab initiative: computational cancer research in lung adenocarcinoma and pancreatic ductal adenocarcinoma through federated learning, agentic AI and multi-cohort genomic analysis.",
+    "Mentors MS and BS researchers in systems biology, machine learning and computational oncology, and contributed to the book Computational Healthcare Intelligence: New and Emerging Trends."
+   ],
+   "photo": "assets/images/community/didar-murad.svg"
+  },
+  {
+   "id": "maryam-nisar",
+   "name": "Dr. Maryam Nisar",
+   "tier": "principal",
+   "rank": "R3-B",
+   "headline": "Principal Scientist. PhD in Computational Science & Engineering. Bioinformatician and computational biologist.",
+   "groups": [
+    "life",
+    "computing"
+   ],
+   "profile": "Has an interdisciplinary background spanning bioinformatics, computational biology, systems biology, transcriptomics, drug design, metagenomics and machine learning. Her research integrates computational and data-driven approaches to address complex biological questions, with a focus on advancing healthcare and biotechnology.",
+   "expertise": [
+    "Bioinformatics and computational biology",
+    "Systems biology and signaling network analysis",
+    "Transcriptomics and genomic data analysis",
+    "Drug design and computational therapeutics",
+    "Metagenomics and biological data analytics",
+    "Machine learning for biomedical research"
+   ],
+   "contributions": [],
+   "photo": "assets/images/community/maryam-nisar.svg"
+  },
+  {
+   "id": "saima-ejaz",
+   "name": "Dr. Saima Ejaz",
+   "tier": "principal",
+   "rank": "R3-A",
+   "headline": "Principal Scientist. PhD Computational Science & Engineering. Pharm-D. M.Phil. Pharmaceutical Chemistry.",
+   "groups": [
+    "life"
+   ],
+   "profile": "Works at the intersection of computational drug discovery, antibody engineering and pharmaceutical sciences, combining medicinal chemistry expertise with AI-driven computational research.",
+   "expertise": [
+    "Antibody modeling and engineering",
+    "Structure-based drug design",
+    "Computational drug discovery",
+    "Medicinal and pharmaceutical chemistry",
+    "Pharmaceutical quality analysis",
+    "Computational approaches for biomedical research"
+   ],
+   "contributions": [
+    "PhD research on antibody modeling and structure-based drug design using computational methods.",
+    "Built an interdisciplinary foundation through Pharm-D and M.Phil. in Pharmaceutical Chemistry, specializing in medicinal chemistry and drug design.",
+    "Quality Control Analyst at Medizan Laboratories (Pvt.) Ltd. for 1 year and 7 months, with industrial experience in pharmaceutical quality control and analytical evaluation.",
+    "Junior Lecturer at Riphah Institute of Pharmaceutical Sciences, Islamabad, for 1.8 years, contributing to teaching and research in Pharmaceutical Chemistry."
+   ],
+   "photo": "assets/images/community/saima-ejaz.svg"
+  },
+  {
+   "id": "nabila-sultan",
+   "name": "Dr. Nabila Sultan",
+   "tier": "principal",
+   "rank": "",
+   "headline": "MBBS (KMC), FCPS (General Medicine), MRCP 1 and MRCP 2 (Royal College of Physicians, London).",
+   "groups": [
+    "life"
+   ],
+   "profile": "Clinical physician contributing medical expertise to the community.",
+   "expertise": [
+    "General medicine"
+   ],
+   "contributions": [],
+   "photo": "assets/images/community/nabila-sultan.svg"
+  },
+  {
+   "id": "omar-zeb",
+   "name": "Engg. Dr. Omar Zeb",
+   "tier": "principal",
+   "rank": "R3-B",
+   "headline": "Principal Scientist. PhD in Electrical Power & Control System Engineering. Renewable energy researcher.",
+   "groups": [
+    "control",
+    "computing"
+   ],
+   "profile": "Research spans renewable energy systems, electrical power engineering, robust nonlinear control, AI-based intelligent controllers and modern power systems. He integrates advanced nonlinear control theory with artificial intelligence to develop intelligent, adaptive and energy-efficient solutions for next-generation energy technologies.",
+   "expertise": [
+    "Renewable energy systems and applications",
+    "Electrical power and control systems",
+    "Robust nonlinear control design",
+    "ANN and ANFIS controllers",
+    "Power converters and electric vehicle control",
+    "AC/DC microgrids and power loss minimization"
+   ],
+   "contributions": [],
+   "photo": "assets/images/community/omar-zeb.svg"
+  },
+  {
+   "id": "atif-rehman",
+   "name": "Mr. Atif Rehman",
+   "tier": "senior",
+   "rank": "R2-C",
+   "headline": "Senior Researcher. MS Computational Science & Engineering, SINES, NUST. PhD Researcher, University of Wollongong, Australia.",
+   "groups": [
+    "life",
+    "control",
+    "computing"
+   ],
+   "profile": "Works at the intersection of intelligent control systems, biomedical systems engineering, reinforcement learning and scientific machine learning.",
+   "expertise": [
+    "Nonlinear and advanced sliding mode control",
+    "Intelligent biomedical control and therapeutic optimization",
+    "Reinforcement learning and scientific machine learning",
+    "Cancer therapy and glucose regulation control"
+   ],
+   "contributions": [
+    "Over 21 peer-reviewed publications, including research in leading Q1 journals.",
+    "International research experience across Cyprus, Saudi Arabia and Pakistan.",
+    "Contributing to EU-funded research on autonomous mobility.",
+    "Developing intelligent control strategies for cancer therapy and glucose regulation.",
+    "Pursuing interdisciplinary research connecting computational intelligence, control theory and biomedical systems."
+   ],
+   "photo": "assets/images/community/atif-rehman.svg"
+  },
+  {
+   "id": "kashif-saleem",
+   "name": "Mr. Kashif Saleem",
+   "tier": "senior",
+   "rank": "R2-B",
+   "headline": "Senior Scientist. MS Bioinformatics. Doctoral Researcher, Charles University (Univerzita Karlova).",
+   "groups": [
+    "life",
+    "computing"
+   ],
+   "profile": "Works at the intersection of bioinformatics, reproducible computation and public-health research.",
+   "expertise": [
+    "Bulk and single-cell RNA-seq",
+    "Multi-omics integration and host-pathogen genomics",
+    "Antimicrobial resistance (AMR) surveillance",
+    "Nextflow, Snakemake, Docker and Singularity",
+    "Machine learning for biological analysis"
+   ],
+   "contributions": [
+    "5 peer-reviewed publications and preprints in SLE transcriptomics, AMR, drug discovery and multi-omics.",
+    "Developed PHEGEN, a gene-prediction tool for AMR detection in metagenomic datasets.",
+    "Co-Founder of Bioinfocamp, supporting early-career researcher training internationally.",
+    "MS thesis on SLE computational analysis using sequencing, systems biology and machine learning at NUST."
+   ],
+   "photo": "assets/images/community/kashif-saleem.svg"
+  },
+  {
+   "id": "ahsan-nawaz-jadoon",
+   "name": "Engg. Ahsan Nawaz Jadoon",
+   "tier": "senior",
+   "rank": "",
+   "headline": "MS Electrical Engineering. PhD student, SEECS, NUST.",
+   "groups": [
+    "control"
+   ],
+   "profile": "",
+   "expertise": [],
+   "contributions": [],
+   "photo": "assets/images/community/ahsan-nawaz-jadoon.svg"
+  },
+  {
+   "id": "huzaifah-abbas",
+   "name": "Engg. Huzaifah Abbas",
+   "tier": "senior",
+   "rank": "",
+   "headline": "MS Electrical Engineering, SEECS, NUST.",
+   "groups": [
+    "control",
+    "computing"
+   ],
+   "profile": "A researcher specializing in advanced control systems, with a focus on linear and nonlinear Model Predictive Control (MPC) and reinforcement learning-based strategies. His work centers on RL-based model-free controllers and RL-based control optimizers, bridging classical control theory with artificial intelligence. Two journal publications are under review, and he is exploring applications for embedded systems and real-time autonomous control. He aims to translate complex control algorithms into practical, deployable solutions across biomedical systems, robotics and energy management.",
+   "expertise": [
+    "Linear and nonlinear Model Predictive Control",
+    "Reinforcement learning-based control",
+    "Model-free controllers and control optimizers",
+    "Embedded and real-time autonomous control"
+   ],
+   "contributions": [],
+   "photo": "assets/images/community/huzaifah-abbas.svg"
+  },
+  {
+   "id": "shayan-khan",
+   "name": "Engg. Shayan Khan",
+   "tier": "senior",
+   "rank": "",
+   "headline": "PhD student, University of Illinois at Urbana-Champaign, USA. MS Electrical Engineering and PhD scholar, SEECS, NUST.",
+   "groups": [
+    "control"
+   ],
+   "profile": "A dedicated and highly motivated electrical engineering researcher whose expertise covers both linear and nonlinear control systems. He is currently in the research phase of his program and aims to apply this knowledge to real-world challenges, leading innovative projects as a professional electrical engineer.",
+   "expertise": [
+    "Linear control systems",
+    "Nonlinear control systems"
+   ],
+   "contributions": [],
+   "photo": "assets/images/community/shayan-khan.svg"
+  },
+  {
+   "id": "maheera-amjad",
+   "name": "Miss Maheera Amjad",
+   "tier": "senior",
+   "rank": "",
+   "headline": "MS Bioinformatics. PhD scholar in Bioinformatics, SINES, NUST.",
+   "groups": [
+    "life",
+    "computing"
+   ],
+   "profile": "PhD candidate at the intersection of bioinformatics and generative AI, with the capacity to lead independent research and translate advanced bioinformatics and machine learning models into safer, more effective preclinical drug candidates. She is committed to rigorous academic investigation and to public communication through blogging, so that scientific breakthroughs are accessible and trustworthy.",
+   "expertise": [
+    "Bioinformatics",
+    "Generative AI",
+    "Preclinical drug candidate development",
+    "Science communication"
+   ],
+   "contributions": [],
+   "photo": "assets/images/community/maheera-amjad.svg"
+  },
+  {
+   "id": "sadia-bano",
+   "name": "Miss Sadia Bano",
+   "tier": "junior",
+   "rank": "R1-C",
+   "headline": "Junior Research Scientist. Bioinformatician. MS Bioinformatics.",
+   "groups": [
+    "life"
+   ],
+   "profile": "A bioinformatician contributing to computational and data-driven biomedical research.",
+   "expertise": [
+    "Bioinformatics and computational biology",
+    "Genomic and transcriptomic data analysis",
+    "Biological data processing and interpretation",
+    "Computational approaches to biomedical research"
+   ],
+   "contributions": [],
+   "photo": "assets/images/community/sadia-bano.svg"
+  },
+  {
+   "id": "zohaib-alam",
+   "name": "Mr. Zohaib Alam",
+   "tier": "junior",
+   "rank": "R1-A",
+   "headline": "Junior Research Scientist. Computer scientist. BS Computer Science.",
+   "groups": [
+    "computing"
+   ],
+   "profile": "A computer scientist contributing to computational research through programming, data analysis and AI-driven problem solving.",
+   "expertise": [
+    "Artificial Intelligence and Machine Learning",
+    "Software development and programming",
+    "Data analysis and computational methods",
+    "Algorithm design and problem solving",
+    "AI-assisted research workflows"
+   ],
+   "contributions": [],
+   "photo": "assets/images/community/zohaib-alam.svg"
+  }
+ ]
+}
