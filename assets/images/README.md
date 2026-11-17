@@ -1,1 +1,0 @@
-Included original SVG figures: brand-mark.svg, figure-research-ecosystem.svg, figure-ecr-pathways.svg, figure-lab-workflow.svg. Replace the neutral mark with approved institutional branding before launch. Add licensed, permission-cleared photographs only.
