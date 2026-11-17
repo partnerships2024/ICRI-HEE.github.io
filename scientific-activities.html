@@ -1,0 +1,42 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Scientific Activities | ICRI-HEE</title>
+<meta name="description" content="Scientific events, research training, ECR development, research governance and credential validation.">
+<link rel="icon" href="favicon.svg" type="image/svg+xml">
+<link rel="preconnect" href="https://fonts.googleapis.com"><link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Fraunces:opsz,wght@9..144,400;9..144,600&family=Hanken+Grotesk:wght@400;500;600&display=swap" rel="stylesheet">
+<link rel="stylesheet" href="css/shell.css">
+<link rel="stylesheet" href="css/activities.css">
+</head>
+<body>
+<header class="site-header" id="site-header"><div class="hd"><a class="brand" href="index.html"><span>ICRI-HEE</span></a><nav id="mainnav" aria-label="Main"><ul><li><a href="index.html">Home</a></li><li><a href="community.html">Community</a></li><li><a href="scientific-activities.html">Activities</a></li></ul><a class="cta-gov" href="https://didarmurad2019.github.io/Statutes.github.io/" target="_blank" rel="noopener">Statutes &amp; Governance</a></nav></div></header>
+<nav class="sub" aria-label="On this page"><a href="#event">Featured event</a><a href="#ecosystem">Ecosystem</a><a href="#pathway">ECR pathway</a><a href="#news">Newsroom</a><a href="#portals">Portals</a></nav>
+<main id="main">
+  <section class="hero">
+    <canvas id="ribbon" aria-hidden="true"></canvas>
+    <div class="hero-in">
+      <h1>Scientific Activities</h1>
+      <p id="intro"></p>
+      <div class="cta"><a class="btn" href="#event">Explore events</a><a class="btn ghost" href="#portals">Open research portals</a><a class="btn ghost" id="full" href="#" target="_blank" rel="noopener">Full activities site (new tab)</a></div>
+    </div>
+  </section>
+  <section id="event" class="sec"><div class="event"><div><h2 id="e-title"></h2><p class="lead" id="e-sub"></p><p id="e-text" class="muted"></p><div class="tags" id="e-tags"></div><a class="btn" id="e-link" href="#" target="_blank" rel="noopener">Open symposium portal (new tab)</a></div>
+    <div class="count" role="timer" aria-live="off"><span class="date" id="e-date"></span><div class="clock" id="clock"></div><p id="e-state"></p></div></div></section>
+  <section id="ecosystem" class="sec"><h2>Research development ecosystem</h2><p class="lead">Professional pathways connecting learning, implementation, evaluation, collaboration and research communication.</p><div class="cards" id="eco"></div></section>
+  <section id="pathway" class="sec path"><h2>Early Career Researcher pathway</h2><p class="lead">Ten stages from first learning to responsible publication. Select a stage to read it.</p>
+    <ol class="steps" id="steps"></ol><div class="stepbox" id="stepbox" aria-live="polite"></div></section>
+  <section id="news" class="sec"><div class="row"><h2>Newsroom</h2><a class="btn ghost" id="news-all" href="#" target="_blank" rel="noopener">All updates (new tab)</a></div><div class="cards" id="newsl"></div></section>
+  <section id="portals" class="sec"><h2>Research portals, credentials and verification</h2>
+    <div class="tools"><label class="search"><span class="sr">Search portals</span><input id="q" type="search" placeholder="Search portals, for example certificate or evaluator"></label><div class="chips" id="chips" role="group" aria-label="Filter portals"></div></div>
+    <p class="muted" id="pc" aria-live="polite"></p><div class="portals" id="plist"></div>
+    <aside class="gov"><div><h3>ICRI-HEE Statutes and Governance</h3><p>Standards, structure and governance of ICRI-HEE, for reviewers and partners.</p></div><a class="btn" href="https://didarmurad2019.github.io/Statutes.github.io/" target="_blank" rel="noopener">Read the statutes (new tab)</a></aside>
+  </section>
+</main>
+<footer class="site-footer" id="site-footer"><p class="copy">© ICRI-HEE. <a href="community.html">Community</a> | <a href="scientific-activities.html">Activities</a> | <a href="https://didarmurad2019.github.io/Statutes.github.io/">Statutes and Governance</a></p></footer>
+<script src="js/shell.js"></script>
+<script src="js/activities.js"></script>
+</body>
+</html>
