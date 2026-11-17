@@ -1,0 +1,8 @@
+FUTURE SCIENTIFIC LEADERS — WEBSITE PACKAGE
+Root entry: index.html
+Core pages: pages/*.html
+People: people/index.html
+Lab pages: labs/{chi,iesst,eias}/index.html
+JSON data: data/{labs,people,programmes,site}.json
+Assets: assets/css/style.css, assets/js/site.js, assets/images/*.svg
+Deployment: .nojekyll, 404.html, robots.txt, README.md
