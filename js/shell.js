@@ -25,6 +25,6 @@ function header(s){const H=document.getElementById('site-header');if(!H)return;
   nav.addEventListener('click',e=>{if(e.target.closest('.sm a, #mainnav>ul>li>a')){closeAll();nav.classList.remove('open');mb.setAttribute('aria-expanded','false')}})}
 function footer(s){const F=document.getElementById('site-footer');if(!F)return;
   const cols=(s.footer||[]).map(g=>`<div><h2>${esc(g.title)}</h2><ul>${g.links.map(l=>`<li><a href="${l.href}"${ext(l)}>${lab(l)}</a></li>`).join('')}</ul></div>`).join('');
-  F.innerHTML=`<div class="ft"><div><div class="fb"><img src="assets/images/ICRI-HEE_logo.png" alt="" width="28" height="28">${esc(s.org.name)}</div><p>${esc(s.org.fullName)}</p></div>${cols}</div><p class="copy">© ${new Date().getFullYear()} ${esc(s.org.name)}. All rights reserved.</p>`}
+  F.innerHTML=`<div class="ft"><div><div class="fb"><img src="assets/images/logo.svg" alt="" width="28" height="28">${esc(s.org.name)}</div><p>${esc(s.org.fullName)}</p></div>${cols}</div><p class="copy">© ${new Date().getFullYear()} ${esc(s.org.name)}. All rights reserved.</p>`}
 fetch('data/site.json').then(r=>r.json()).catch(()=>FB).then(s=>{s={...FB,...s};header(s);footer(s)});
 })();
