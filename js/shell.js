@@ -93,7 +93,7 @@
     H.innerHTML = `
       <div class="hd">
         <a class="brand" href="index.html">
-          <img src="assets/images/ICRI-HEE_logo.svg" alt="" width="34" height="34">
+          <img src="assets/images/ICRI-HEE.svg" alt="" width="34" height="34">
           <span>${esc(s.org.name)}</span>
         </a>
 
@@ -192,7 +192,7 @@
       <div class="ft">
         <div>
           <div class="fb">
-            <img src="assets/images/ICRI-HEE_logo.svg" alt="" width="28" height="28">
+            <img src="assets/images/ICRI-HEE.svg" alt="" width="28" height="28">
             ${esc(s.org.name)}
           </div>
           <p>${esc(s.org.fullName)}</p>
